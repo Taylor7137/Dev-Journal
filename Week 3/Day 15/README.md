@@ -46,4 +46,4 @@ Not sure.
 3. Position an image in the
 center of the page.
 
-use (margin: auto) in the styling of the image and make sure the height and width of the parent element is the max it can be and it itself is in the middle of the page. 
+use (margin: auto) in the styling of the image and make sure the height and width of the parent element is the max it can be and it itself is in the middle of the page. This method depends on the positioning of the parent element, so it is difficult to say exactly without typing an annoying, exhaustive, unreadable description. 
